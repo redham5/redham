@@ -2,8 +2,8 @@
 const profile = {
     name: "Redham",
     education: {
-        institution: "Comilla Polytechnic Institute",
-        major: "Computer Engineering"
+        institution: "Comilla gov. College, Comilla Polytechnic Institute, Bangladesh University",
+        major: "Computer Science & Engineering, Game Development"
     },
     computerSpecs: {
         processor: "Intel i5 6400",
