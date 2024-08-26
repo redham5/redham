@@ -8,7 +8,7 @@ const profile = {
     computerSpecs: {
         processor: "Intel i5 6400",
         ram: "8 GB",
-        graphicsCard: "GTX 1660 Super"
+        graphicsCard: "RX 580"
     },
     programmingLanguages: [
         "Python",
