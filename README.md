@@ -20,6 +20,6 @@ const profile = {
         "Flask",
         "Django",
     ];
-    interests: ["gaming, art, gardening"]
+    interests: ["gaming, art, gardening, Cooking"]
 };
 ```
